@@ -1,0 +1,80 @@
+/*tag*/
+h1{
+  color:white;
+  font-family: 'Outfit', sans-serif;
+  margin-left: auto;
+  font-size: 22px;
+  display: block;
+  padding-left: 25px;
+}
+p{
+  font-size: 18px;
+  color: white;
+  font-family: 'Outfit', sans-serif;
+  padding-left: 25px;
+  font-weight: 100;
+}
+hr{
+  width: 300px;
+  height: 1px;
+  border-style: none;
+  background-color: hsl(215, 32%, 27%);
+}
+
+/*class*/
+.background{
+  background-color:hsl(217, 54%, 11%);
+  width: 1440px;
+  height: 1080px;
+  margin:auto;
+  display: flex;
+  align-items: center;
+}
+.card{
+  background-color: hsl(216, 50%, 16%);
+  height:585px;
+  width: 350px;
+  margin: auto;
+  border-radius: 15px;
+
+}
+.equilibrium{
+  width:300px;
+  margin:auto;
+  display: block;
+  margin:20px auto;
+  border-radius: 10px;
+}
+.footer{
+  height: 40px;
+  flex: auto;
+  align-items: center;
+}
+.avatar{
+  width: 40px;
+  float: left;
+  margin: 0 10px 0 25px;
+  border: 1px;
+  border-style: solid;
+  border-width: thin;
+  border-color: white;
+  border-radius: 100px;
+}
+.jules{
+  padding-top: 10px;
+}
+.table{
+  margin-left: 25px;
+}
+.ETH{
+  color:  hsl(178, 100%, 50%);
+  float: left;
+  font-family: 'Outfit', sans-serif;
+
+}
+.clock{
+  text-align:right;
+  margin-right: 0;
+  color: white;
+  font-family: 'Outfit', sans-serif;
+}
